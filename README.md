@@ -30,6 +30,10 @@
 1. 在设置中，可以自定义铃声（mp3 格式）。
 2. 在设置中，任务数据可以导出，导入。
 
+![主界面](https://github.com/user-attachments/assets/f2db4ba1-3051-4b91-842a-b025b5bfb26c)
+
+![迷你界面](https://github.com/user-attachments/assets/19228928-7941-4e4f-80cd-699a042eafda)
+
 English：
 This is a list form of tomato clock software, the interface is very simple.
 The inspiration came from ttplayer (a local music player) and to do list.
@@ -62,5 +66,4 @@ Software Cons:
 Other features:
 1. In settings, you can customize the ring tone (in MP 3 format) .
 2. In setup, task data can be exported and imported.
-![主界面](https://github.com/user-attachments/assets/f2db4ba1-3051-4b91-842a-b025b5bfb26c)
-![迷你界面](https://github.com/user-attachments/assets/19228928-7941-4e4f-80cd-699a042eafda)
+
