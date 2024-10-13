@@ -14,23 +14,22 @@
 2. 在设置中，添加铃声
 
 软件优点：
-列表形式，自由添加任务+时间。
-双击可以重命名任务，自由排序，可以移动任务排序。
-有一个迷你模式，可以缩小在屏幕边缘，让它不影响工作。迷你模式的窗口可以移动。
-任务可以标记颜色，黑色和红色。方便把工作任务和休息任务用颜色作为区分。
-支持 windows 和 liunx 。
+1. 列表形式，自由添加任务+时间。
+2. 双击可以重命名任务，自由排序，可以移动任务排序。
+3. 有一个迷你模式，可以缩小在屏幕边缘，让它不影响工作。迷你模式的窗口可以移动。
+4. 任务可以标记颜色，黑色和红色。方便把工作任务和休息任务用颜色作为区分。
+5. 支持 windows 和 liunx 。
 
 软件缺点：
-经过测试，最小化到右下角后，番茄钟会卡住不动。所以建议在设置中，把最小化的功能取消勾选。
-历史功能无效。
-默认没有铃声。需要自定义铃声（mp3 格式）。
-界面非常简单。
+1. 经过测试，最小化到右下角后，番茄钟会卡住不动。所以建议在设置中，把最小化的功能取消勾选。
+2. 历史功能无效。
+3. 没有铃声。需要自定义铃声（mp3 格式）。
+4. 界面极其简单。
 
 其他功能：
-在设置中，可以自定义铃声（mp3 格式）。
-在设置中，任务数据可以导出，导入。
+1. 在设置中，可以自定义铃声（mp3 格式）。
+2. 在设置中，任务数据可以导出，导入。
 
----
 English：
 This is a list form of tomato clock software, the interface is very simple.
 The inspiration came from ttplayer (a local music player) and to do list.
@@ -48,22 +47,20 @@ The first time you use it, you need to make two settings:
 2. In settings, add a ring tone
 
 Software Pros:
-List form, free to add tasks + time.
-Double-click to rename tasks, sort freely, and move tasks to sort.
-There is a mini-mode that can be shrunk at the edge of the screen so that it does not affect the work. Windows in mini-mode can be moved.
-Tasks can be marked with colors, black and red. Easy to work tasks and rest tasks with color as a distinction.
-Support for Windows and Linux.
+1. List form, free to add tasks + time.
+2. Double-click to rename tasks, sort freely, and move tasks to sort.
+3. There is a mini-mode that can be shrunk at the edge of the screen so that it does not affect the work. Windows in mini-mode can be moved.
+4. Tasks can be marked with colors, black and red. Easy to work tasks and rest tasks with color as a distinction.
+5. Support for Windows and Linux.
 
 Software Cons:
-After testing, minimize to the lower right corner, the tomato clock will stick. Therefore, it is recommended that you uncheck the minimal features in your settings.
-The history function is invalid.
-There is no ringtone by default. You need a custom ringtone (in mp 3 format) .
-The interface is very simple.
+1. After testing, minimize to the lower right corner, the tomato clock will stick. Therefore, it is recommended that you uncheck the minimal features in your settings.
+2. The history function is invalid.
+3. There is no ringtone by default. You need a custom ringtone (in mp 3 format) .
+4. The interface is very simple.
 
 Other features:
-In settings, you can customize the ring tone (in MP 3 format) .
-In setup, task data can be exported and imported.
-
-
-![主界面](https://github.com/user-attachments/assets/a3e3f774-b36d-49f1-8a1a-0d0d0a71e1e4)![迷你界面](https://github.com/user-attachments/assets/e26f6a50-acbc-4534-a1ac-235d7c0fa248)
-
+1. In settings, you can customize the ring tone (in MP 3 format) .
+2. In setup, task data can be exported and imported.
+![主界面](https://github.com/user-attachments/assets/f2db4ba1-3051-4b91-842a-b025b5bfb26c)
+![迷你界面](https://github.com/user-attachments/assets/19228928-7941-4e4f-80cd-699a042eafda)
